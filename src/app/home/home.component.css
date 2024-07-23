@@ -1,0 +1,6 @@
+.wwi-banner {
+    background-image: url('../assets/images/wwi-site-header.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 400px;
+}

@@ -1,0 +1,14 @@
+.navbar {
+    border-bottom: solid 1px rgb(36, 36, 36);
+}
+
+.navbar-brand {
+    letter-spacing: -1px;
+    padding-left: 25px;
+    padding-right: 25px;
+}
+
+.nav-link:hover {
+    color: orange;
+    cursor: pointer;
+}
